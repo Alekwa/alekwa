@@ -1,3 +1,3 @@
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: N/A
-- ⚡ Fun fact: it's not an easy ride
+Python
+Pronouns: N/A
+It's not an easy ride
